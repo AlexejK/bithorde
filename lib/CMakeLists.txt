@@ -21,5 +21,5 @@ TARGET_LINK_LIBRARIES(bithorde
 	${Boost_LIBRARIES}
 
 	pthread
-	crypto++
+	cryptopp
 )
